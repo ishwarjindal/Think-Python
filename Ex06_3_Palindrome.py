@@ -1,3 +1,10 @@
+#Author         : Ishwar Jindal 
+#Created        : 05-May-2019
+#Last Modified  : 05-May-2019
+#Purpose
+#   This script contains program that determine if the input
+#   word is palindrome or not
+
 def first(word):
     return word[0]
 
