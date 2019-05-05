@@ -24,10 +24,22 @@ def is_palindrome(word):
 
 print ("main started")
 
-word = "ITI"
+word = "noon"
 if is_palindrome(word):
     print (word + " is palindrome")
 else:
     print (word + " is not palindrome")
 
+word = "redivider"
+if is_palindrome(word):
+    print (word + " is palindrome")
+else:
+    print (word + " is not palindrome")
+
+word = "outlook"
+if is_palindrome(word):
+    print (word + " is palindrome")
+else:
+    print (word + " is not palindrome")
+    
 print ("main ended")
