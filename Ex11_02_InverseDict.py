@@ -16,7 +16,7 @@ def invert_dict(inputDict):
 
     return inverted_dict
 
-if __name__ == "__main__":
+
     print("main started")
     sentence_1 = "the quick brown fox jumps over a little lazy dog"
     hist = getFrequenciesOfLetters(sentence_1)
